@@ -1,0 +1,13 @@
+NOME    PONTUACAO
+Sabrina	3
+sabrina	9
+Sasa	1
+sasa	3
+Sabrina	15
+kau	1
+oioi	4
+kau	3
+kauauuauauuau	1
+oioill	3
+kkkkkkk	1
+lllll	1
